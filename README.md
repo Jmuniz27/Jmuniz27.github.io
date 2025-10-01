@@ -1,13 +1,6 @@
 # 👋 ¡Hola! Soy Juan Andrés Munizaga Torres
 
-<div align="center">
-  
-[![Email](https://img.shields.io/badge/Email-juanmuni%40espol.edu.ec-red?style=flat-square&logo=gmail)](mailto:juanmuni@espol.edu.ec)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-jmuniz27-blue?style=flat-square&logo=linkedin)](https://linkedin.com/in/jmuniz27)
-[![GitHub](https://img.shields.io/badge/GitHub-Jmuniz27-black?style=flat-square&logo=github)](https://github.com/Jmuniz27)
-[![Location](https://img.shields.io/badge/Location-Guayaquil%2C%20Ecuador-green?style=flat-square&logo=google-maps)](https://maps.google.com/?q=Guayaquil,Ecuador)
-
-</div>
+**📧 Email:** juanmuni@espol.edu.ec | **💼 LinkedIn:** [jmuniz27](https://linkedin.com/in/jmuniz27) | **🐱 GitHub:** [@Jmuniz27](https://github.com/Jmuniz27) | **📍 Guayaquil, Ecuador**
 
 ## 🚀 Sobre mí
 
